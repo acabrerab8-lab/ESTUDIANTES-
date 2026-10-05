@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "ANA",
+    "apellido": "PEREZ",
+    "email": "ANA@GMAIL.COM",
+    "carnet": "EST001",
+    "notas": {
+      "Estructura": [
+        18.0
+      ]
+    },
+    "materias": [
+      "Estructura"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "luis",
+    "apellido": "mora",
+    "email": "luismora13@gmail.com",
+    "carnet": "EST002",
+    "notas": {
+      "Estructura": [
+        15.0
+      ]
+    },
+    "materias": [
+      "Estructura"
+    ]
+  }
+]
